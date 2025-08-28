@@ -30,7 +30,8 @@ ROC Curve Comparison:
 **Best Model:** Random Forest (higher accuracy & F1-score)
 
 ## Demo
-- [Demo Video (30 sec)](link-to-your-video)
+[![Demo Video](https://img.shields.io/badge/Play%20Demo-Video-blue?logo=github)](demo/demo.mp4)
+
 
 ## Presentation
 - [5-slide PPT](link-to-your-ppt)
