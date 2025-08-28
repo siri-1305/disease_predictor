@@ -35,5 +35,5 @@ ROC Curve Comparison:
 
 
 ## Presentation
-- [5-slide PPT](link-to-your-ppt)
+- [5-slide PPT](presentation/Disease_Prediction_Presentation.pptx)
 
